@@ -1,4 +1,6 @@
-# RECOM_Toolkit
-A tool used for modding the game Kingdom Hearts: Re Chain of Memories
+RECOM_Toolkit
+=============
 
-This repository is a stub since the tool isn't released yet.
+This toolkit is made to be able to mod KH RE:COM. I did it under one week and never had time to finish it.
+As far as I'm concerned, it worked so I was able to do what I wanted.
+Feel free to do pull request to finish it!
